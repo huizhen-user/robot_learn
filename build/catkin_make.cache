@@ -1,0 +1,2 @@
+chapter2_tutorials:chapter3_tutorials:chapter4_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/ros/shz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/shz/catkin_ws/install -G Unix Makefiles
